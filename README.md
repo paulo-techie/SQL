@@ -1,6 +1,6 @@
 # SQL
 
-> Answers to tutorial questions
+> Answers to tutorial questions 0-9
 
 
 [SQL ZOO](https://napier.sqlzoo.net)
